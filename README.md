@@ -1,5 +1,7 @@
 [![ggtylerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggtylerr&show_icons=true&bg_color=45,00DBFF,006BFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=ADDDFF)](https://github.com/anuraghazra/github-readme-stats)
 
+*Note: I usually code locally and commit once I'm happy with said code, so the total commits stat is much lower than how much I code.*
+
 👩‍💻 Languages & Frameworks
 ==========
 Prolific in:
