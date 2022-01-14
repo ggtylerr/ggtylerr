@@ -26,10 +26,9 @@ Still learning:
 =========
 Maintaining:
 * [Website](https://ggtylerr.dev)
-* [Minecraft Server](https://ggt.bz/l/dmc)
 
 Working on:
-* [MC Events](https://discord.gg/JSmmX97bnT) bot
+* [MC Events](https://discord.gg/JSmmX97bnT) Discord bot
 * Website Rewrite + Rebrand
 * [gg bot](https://www.ggtylerr.dev/blog/07-04-2021)
 * TBA
@@ -37,6 +36,7 @@ Working on:
 Backburner:
 * [KAaNE for Qt](https://www.ggtylerr.dev/blog/01-01-2021)
 * [KAaNE AE](https://play.google.com/store/apps/details?id=com.ggtylerr.kaane_ae&hl=en_US&gl=US)
+* [Minecraft Server](https://ggt.bz/l/dmc)
 
 Planned:
 * [ggt.bz](https://ggt.bz)
