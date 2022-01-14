@@ -29,10 +29,14 @@ Maintaining:
 * [Minecraft Server](https://ggt.bz/l/dmc)
 
 Working on:
+* [MC Events](https://discord.gg/JSmmX97bnT) bot
+* Website Rewrite + Rebrand
 * [gg bot](https://www.ggtylerr.dev/blog/07-04-2021)
+* TBA
+
+Backburner:
 * [KAaNE for Qt](https://www.ggtylerr.dev/blog/01-01-2021)
 * [KAaNE AE](https://play.google.com/store/apps/details?id=com.ggtylerr.kaane_ae&hl=en_US&gl=US)
-* TBA
 
 Planned:
 * [ggt.bz](https://ggt.bz)
@@ -52,6 +56,6 @@ Past/archived/maintenence projects:
 
 😀 About me
 =====
-I'm a dev for a TBA esports organization that also occasionally makes projects. I also (rarely) stream and make videos.
+I'm a dev for a TBA esports organization and [MC Events](https://discord.gg/JSmmX97bnT) that also occasionally makes projects. I also (rarely) stream and make videos.
 
 You can contact me through [my various accounts listed here.](https://www.ggtylerr.dev/social) Please note that some of them are not meant for professional use, mainly anything for games (like Discord and Steam.) The best way to contact me for professional use is through email, however I will most likely respond fastest over Discord.
