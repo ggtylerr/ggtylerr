@@ -8,13 +8,14 @@ Prolific in:
 * JS (node.js and vanilla JS)
 * [discord.js](https://discord.js.org/)
 * Plain HTML+CSS
-* Java
 
 OK in:
+* [Fabric](https://fabricmc.net/)
 * Python 2+3
 * PHP
-* [Fabric](https://fabricmc.net/)
+* Java
 * [V](https://vlang.io/)
+* [Vue](https://vuejs.org/)
 
 Still learning:
 * C++
