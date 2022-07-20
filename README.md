@@ -58,6 +58,6 @@ Past/archived/maintenence projects:
 
 😀 About me
 =====
-I'm a dev for Titan Events that also occasionally makes projects. I also (rarely) stream and make videos.
+I'm a dev that occasionally makes projects. I also (rarely) stream and make videos.
 
 You can contact me through [my various accounts listed here.](https://www.ggtylerr.dev/social) Please note that some of them are not meant for professional use, mainly anything for games (like Discord and Steam.) The best way to contact me for professional use is through email, however I will most likely respond fastest over Discord.
