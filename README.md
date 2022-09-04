@@ -2,6 +2,8 @@
 
 *Note: I usually code locally and commit once I'm happy with said code, so the total commits stat is much lower than how much I code.*
 
+*GitHub doesn't count commits for forks either, so unfortunately it doesn't count a lot of commits.*
+
 👩‍💻 Languages & Frameworks
 ==========
 Prolific in:
