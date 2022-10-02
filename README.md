@@ -28,16 +28,15 @@ Still learning:
 ⚒ Projects
 =========
 Maintaining:
-* [Website](https://ggtylerr.dev)
 * Various Divolt projects
 
 Working on:
-* Website Rewrite + Rebrand
+* [ggtyler.dev](https://ggtyler.dev)
 * QtVolt (Revolt client)
-* [gg bot](https://www.ggtylerr.dev/blog/07-04-2021)
 * TBA
 
 Backburner:
+* [gg bot](https://www.ggtylerr.dev/blog/07-04-2021)
 * [KAaNE for Qt](https://www.ggtylerr.dev/blog/01-01-2021)
 * [KAaNE AE](https://play.google.com/store/apps/details?id=com.ggtylerr.kaane_ae&hl=en_US&gl=US)
 * [Minecraft Server](https://ggt.bz/l/dmc)
