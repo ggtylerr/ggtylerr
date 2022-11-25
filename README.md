@@ -12,6 +12,8 @@ Prolific in:
 * Plain HTML+CSS
 
 OK in:
+* Android
+* Kotlin
 * [Fabric](https://fabricmc.net/)
 * Python 2+3
 * PHP
