@@ -1,4 +1,4 @@
-[![ggtylerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggtylerr&show_icons=true&bg_color=45,00DBFF,006BFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=ADDDFF)](https://github.com/anuraghazra/github-readme-stats)
+[![ggtylerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggtylerr&show_icons=true&bg_color=001B40&title_color=FFFFFF&text_color=00DBFF&icon_color=FFFFFF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 *Note: I usually code locally and commit once I'm happy with said code, so the total commits stat is much lower than how much I code.*
 
