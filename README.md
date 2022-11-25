@@ -32,7 +32,7 @@ Maintaining:
 
 Working on:
 * [ggtyler.dev](https://ggtyler.dev)
-* QtVolt (Revolt client)
+* NativeVolt (Revolt client)
 * TBA
 
 Backburner:
