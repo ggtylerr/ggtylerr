@@ -10,6 +10,7 @@ Prolific in:
 * JS (node.js and vanilla JS)
 * [discord.js](https://discord.js.org/)
 * Plain HTML+CSS
+* [Astro](https://astro.build)
 
 OK in:
 * Android
