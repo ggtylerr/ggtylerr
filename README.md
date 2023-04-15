@@ -38,6 +38,10 @@ Working on:
 * NativeVolt (Revolt client)
 * TBA
 
+Contributed to:
+* [Vencord](https://github.com/Vendicated/Vencord)
+* [VencordWebsite](https://github.com/Vendicated/VencordWebsite)
+
 Backburner:
 * [gg bot](https://www.ggtylerr.dev/blog/07-04-2021)
 * [KAaNE for Qt](https://www.ggtylerr.dev/blog/01-01-2021)
