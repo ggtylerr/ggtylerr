@@ -32,6 +32,8 @@ Still learning:
 =========
 Maintaining:
 * Various Divolt projects
+  - [Divolt Desktop](https://github.com/fmhy/divolt-desktop)
+  - [Divolt Android](https://github.com/fmhy/divolt-android)
 
 Working on:
 * [ggtyler.dev](https://ggtyler.dev)
@@ -41,6 +43,8 @@ Working on:
 Contributed to:
 * [Vencord](https://github.com/Vendicated/Vencord)
 * [VencordWebsite](https://github.com/Vendicated/VencordWebsite)
+* [RVMob](https://github.com/revoltchat/rvmob)
+  - Technically. They did a rewrite and rebased it off of DVMob, my fork of it for Divolt, and I got listed as a contributor, lol.
 
 Backburner:
 * [gg bot](https://www.ggtylerr.dev/blog/07-04-2021)
