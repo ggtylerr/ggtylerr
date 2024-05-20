@@ -8,17 +8,17 @@
 ==========
 Prolific in:
 * JS (node.js and vanilla JS)
-* [discord.js](https://discord.js.org/)
 * Plain HTML+CSS
 * [Astro](https://astro.build)
 
 OK in:
 * Android
-* Kotlin
+* [discord.js](https://discord.js.org/)
 * [Fabric](https://fabricmc.net/)
-* Python 2+3
-* PHP
 * Java
+* Kotlin
+* PHP
+* Python 2+3
 * [V](https://vlang.io/)
 * [Vue](https://vuejs.org/)
 
@@ -37,6 +37,7 @@ Maintaining:
 
 Working on:
 * [ggtyler.dev](https://ggtyler.dev)
+* [Shortener](https://github.com/ggtylerr/shortener)
 * NativeVolt (Revolt client)
 * TBA
 
@@ -53,7 +54,6 @@ Backburner:
 * [Minecraft Server](https://ggt.bz/l/dmc)
 
 Planned:
-* [ggt.bz](https://ggt.bz)
 * WTME (Minecraft Mod)
 * [mutat.io](https://github.com/ggtylerr/mutat.io)
 * TBA
