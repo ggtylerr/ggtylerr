@@ -17,6 +17,7 @@ OK in:
 * [Fabric](https://fabricmc.net/)
 * Java
 * Kotlin
+* [Svelte](https://svelte.dev/)
 * PHP
 * Python 2+3
 * [V](https://vlang.io/)
@@ -25,43 +26,35 @@ OK in:
 Still learning:
 * C++
 * C#
-* [Qt](https://www.qt.io/)
+* [Qt](https://www.qt.io/) (mainly using PySide6 now)
 * Lua
 
 ⚒ Projects
 =========
 Maintaining:
-* Various Divolt projects
-  - [Divolt Desktop](https://github.com/fmhy/divolt-desktop)
-  - [Divolt Android](https://github.com/fmhy/divolt-android)
+* [Project GLOBE](https://github.com/ggtylerr/globe)
+* [ggtyler.dev](https://ggtyler.dev)
 
 Working on:
-* [ggtyler.dev](https://ggtyler.dev)
+* NEPTube - Native client for Tube-like services
 * [Shortener](https://github.com/ggtylerr/shortener)
-* NativeVolt (Revolt client)
 * TBA
 
 Contributed to:
-* [Vencord](https://github.com/Vendicated/Vencord)
-* [VencordWebsite](https://github.com/Vendicated/VencordWebsite)
+* [Isso](https://github.com/isso-comments/isso/)
+* [Polyfrost Website](https://github.com/Polyfrost/Nexus/tree/main/apps/website)
 * [RVMob](https://github.com/revoltchat/rvmob)
-  - Technically. They did a rewrite and rebased it off of DVMob, my fork of it for Divolt, and I got listed as a contributor, lol.
-
-Backburner:
-* [gg bot](https://www.ggtylerr.dev/blog/07-04-2021)
-* [KAaNE for Qt](https://www.ggtylerr.dev/blog/01-01-2021)
-* [KAaNE AE](https://play.google.com/store/apps/details?id=com.ggtylerr.kaane_ae&hl=en_US&gl=US)
-* [Minecraft Server](https://ggt.bz/l/dmc)
+  - Technically. They did a rewrite and rebased it off of DVMob, a fork I made, and I got listed as a contributor, lol.
+* [Vencord](https://github.com/Vendicated/Vencord)
+* [Vencord Website](https://github.com/Vendicated/VencordWebsite)
 
 Planned:
-* WTME (Minecraft Mod)
-* [mutat.io](https://github.com/ggtylerr/mutat.io)
+* [mutat.io](https://github.com/ggtylerr/mutat.io) (rewriting)
 * TBA
 
 Past/archived/maintenence projects:
 * [DSA Bot](https://github.com/ggtylerr/DSA-Disc-Bot)
 * [Dark Side SCP](https://github.com/ggtylerr/Dark-Side-SCP)
-* [RicePlsPlay](https://github.com/ggtylerr/RicePlsPlay)
 * [Astronomy Status](https://github.com/ggtylerr/Astronomy-Status)
 * [Fabric Armor](https://github.com/ggtylerr/fabricarmor)
 * [KAaNE JE](https://github.com/ggtylerr/KAaNE-JE-)
