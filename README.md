@@ -5,7 +5,7 @@
 *GitHub doesn't count commits for forks either, so unfortunately it doesn't count a lot of commits.*
 
 👩‍💻 Languages & Frameworks
-==========
+===
 Prolific in:
 * JS (node.js and vanilla JS)
 * Plain HTML+CSS
@@ -29,14 +29,15 @@ Still learning:
 * [Qt](https://www.qt.io/) (mainly using PySide6 now)
 * Lua
 
-⚒ Projects
-=========
+🛠️ Projects
+===
 Maintaining:
 * [Project GLOBE](https://github.com/ggtylerr/globe)
 * [ggtyler.dev](https://ggtyler.dev)
 
 Working on:
 * NEPTube - Native client for Tube-like services
+* [AstroTube](https://github.com/ggtylerr/astrotube)
 * [Shortener](https://github.com/ggtylerr/shortener)
 * TBA
 
@@ -61,8 +62,20 @@ Past/archived/maintenence projects:
 * [CursePack](https://github.com/ggtylerr/CursePack)
 * [KAaNE](https://github.com/ggtylerr/KAaNE)
 
+🧰 Tools of the Trade
+===
+| Type | Software |
+|------|-------|
+| IDE | Depending on the project, [Jetbrains,](https://www.jetbrains.com/ides/) [VSC,](https://code.visualstudio.com/) or [Neovim](https://neovim.io/) w/ [AstroNvim.](https://astronvim.com/) |
+| OS | [Nobara 41](https://nobaraproject.org/) |
+| DE | [KDE Plasma](https://kde.org/plasma-desktop/) |
+| Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
+| Shell | zsh w/ [Oh My Zsh](https://ohmyz.sh/) |
+| Shell Theme | [Powerlevel10k](https://github.com/romkatv/powerlevel10k) |
+| AI/GPT | [Absolutely not.](https://www.ggtyler.dev/blog/02-12-2023) |
+
 😀 About me
-=====
+===
 I'm a dev that occasionally makes projects. I also (rarely) stream and make videos.
 
 You can contact me through [my various accounts listed here.](https://www.ggtylerr.dev/social) Please note that some of them are not meant for professional use, mainly anything for games (like Discord and Steam.) The best way to contact me for professional use is through email, however I will most likely respond fastest over Discord.
