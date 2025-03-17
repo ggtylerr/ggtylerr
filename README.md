@@ -44,8 +44,6 @@ Working on:
 Contributed to:
 * [Isso](https://github.com/isso-comments/isso/)
 * [Polyfrost Website](https://github.com/Polyfrost/Nexus/tree/main/apps/website)
-* [RVMob](https://github.com/revoltchat/rvmob)
-  - Technically. They did a rewrite and rebased it off of DVMob, a fork I made, and I got listed as a contributor, lol.
 * [Vencord](https://github.com/Vendicated/Vencord)
 * [Vencord Website](https://github.com/Vendicated/VencordWebsite)
 
