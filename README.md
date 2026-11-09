@@ -35,9 +35,10 @@ Maintaining:
 * [ggtyler.dev](https://ggtyler.dev)
 
 Working on:
+* NodeGUI Qt Multimedia binding plugin
+    * Potentially other plugins depending on need
 * NEPTube - Native client for Tube-like services
 * NEPChat - Native client for chatting platforms
-* NodeGUI Qt Multimedia binding plugin
 
 Contributed to:
 * [Isso](https://github.com/isso-comments/isso/)
@@ -66,13 +67,13 @@ Past/archived/maintenence projects:
 ===
 | Type | Software |
 |------|-------|
-| IDE | Depending on the project, [Jetbrains,](https://www.jetbrains.com/ides/) [VSC,](https://code.visualstudio.com/) or [Neovim](https://neovim.io/) w/ [AstroNvim.](https://astronvim.com/) |
-| OS | [Nobara 43](https://nobaraproject.org/) |
+| IDE | Preferably [VSCodium](https://vscodium.com/). Also [VSC,](https://code.visualstudio.com/) [Helix](https://helix-editor.com/), and [Neovim](https://neovim.io/) w/ [AstroNvim.](https://astronvim.com/) |
+| OS | [Nobara 44](https://nobaraproject.org/) |
 | DE | [KDE Plasma](https://kde.org/plasma-desktop/) |
-| Terminal | [Kitty](https://sw.kovidgoyal.net/kitty/) |
+| Terminal | [Alacritty](https://github.com/alacritty/alacritty) |
 | Shell | zsh w/ [Oh My Zsh](https://ohmyz.sh/) |
 | Shell Theme | [Powerlevel10k](https://github.com/romkatv/powerlevel10k) |
-| AI/GPT/Agent | [Absolutely not.](https://www.ggtyler.dev/blog/02-12-2023) |
+| AI/GPT/Agent | [Absolutely not.](https://codeberg.org/ethical-foss/ai-free-foss-alternatives/src/branch/main/why_not_llms.md) |
 
 😀 About me
 ===
