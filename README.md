@@ -1,4 +1,4 @@
-[![ggtylerr's GitHub stats](https://github-stats-extended.vercel.app/api?username=ggtylerr&show_icons=true&bg_color=001B40&title_color=FFFFFF&text_color=00DBFF&icon_color=FFFFFF&count_private=true)](https://github.com/stats-organization/github-stats-extended)
+[![ggtylerr's GitHub stats](https://github-stats-extended.vercel.app/api?username=ggtylerr&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
 
 *Note: I usually code locally and commit once I'm happy with said code, so the total commits stat is much lower than how much I code.*
 
