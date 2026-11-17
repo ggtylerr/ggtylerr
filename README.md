@@ -67,7 +67,7 @@ Past/archived/maintenence projects:
 ===
 | Type | Software |
 |------|-------|
-| IDE | Preferably [Kyanite](https://codeberg.org/pastthepixels/kyanite). Also [VSCodium,](https://vscodium.com/) [VSC,](https://code.visualstudio.com/) [Helix](https://helix-editor.com/), and [Neovim](https://neovim.io/) w/ [AstroNvim.](https://astronvim.com/) |
+| IDE | Preferably [Kyanite](https://codeberg.org/pastthepixels/kyanite) or [Kate](https://kate-editor.org/). Also [VSCodium,](https://vscodium.com/) [VSC,](https://code.visualstudio.com/) [Helix](https://helix-editor.com/), and [Neovim](https://neovim.io/) w/ [AstroNvim.](https://astronvim.com/) |
 | OS | [Nobara 44](https://nobaraproject.org/) (SWITCHING SOON to maybe elementary idk) |
 | DE | [KDE Plasma](https://kde.org/plasma-desktop/) |
 | Terminal | [Alacritty](https://github.com/alacritty/alacritty) |
