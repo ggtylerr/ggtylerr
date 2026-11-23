@@ -35,7 +35,7 @@ Maintaining:
 * [ggtyler.dev](https://ggtyler.dev)
 
 Working on:
-* NodeGUI Qt Multimedia binding plugin
+* [NodeGUI Qt Multimedia binding plugin](https://codeberg.org/ggtyler/nodegui-plugin-multimedia)
     * Potentially other plugins depending on need
 * NEPTube - Native client for Tube-like services
 * NEPChat - Native client for chatting platforms
